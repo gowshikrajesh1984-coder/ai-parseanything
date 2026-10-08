@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="pafav_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B2DF8F" />
+      <stop offset="50%" stop-color="#A8D584" />
+      <stop offset="100%" stop-color="#80BE53" />
+    </linearGradient>
+    <linearGradient id="pafav_beam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#EAF4E2" stop-opacity="0.9" />
+    </linearGradient>
+    <filter id="pafav_shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1" flood-color="#1B321D" flood-opacity="0.2" />
+    </filter>
+  </defs>
+
+  <!-- Brand Squircle Container -->
+  <rect width="48" height="48" rx="14" fill="url(#pafav_bg)" />
+  <rect x="0.75" y="0.75" width="46.5" height="46.5" rx="13.25" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="1.5" />
+
+  <!-- Monogram P & Document Parser Structure -->
+  <g filter="url(#pafav_shadow)">
+    <!-- Document Spine (Left Pillar of P) -->
+    <rect x="10.5" y="10" width="6.5" height="28" rx="3.25" fill="#223B24" />
+
+    <!-- Document Loop (Curved fold of P) -->
+    <path
+      d="M13.5 10H27C32.523 10 37 14.029 37 19C37 23.971 32.523 28 27 28H13.5"
+      fill="none"
+      stroke="#223B24"
+      stroke-width="6"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Inner Extraction Bracket / Aperture -->
+    <path
+      d="M23 16L26.5 19L23 22"
+      fill="none"
+      stroke="url(#pafav_beam)"
+      stroke-width="2.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Structured Data Output Rows (Turning docs into structured data) -->
+    <rect x="21" y="31.5" width="15" height="3" rx="1.5" fill="#223B24" />
+    <rect x="21" y="36.5" width="9.5" height="3" rx="1.5" fill="#223B24" fill-opacity="0.75" />
+    <circle cx="34" cy="38" r="1.5" fill="#FFFFFF" fill-opacity="0.9" />
+
+    <!-- 4-Point AI Spark (Intelligence Node at Top-Right) -->
+    <path
+      d="M37.5 5.5C37.5 7.4 38.6 8.5 40.5 8.5C38.6 8.5 37.5 9.6 37.5 11.5C37.5 9.6 36.4 8.5 34.5 8.5C36.4 8.5 37.5 7.4 37.5 5.5Z"
+      fill="#223B24"
+    />
+  </g>
+</svg>

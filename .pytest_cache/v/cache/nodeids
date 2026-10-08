@@ -1,0 +1,11 @@
+[
+  "backend/tests/test_flow.py::test_full_document_lifecycle",
+  "backend/tests/test_health.py::test_detailed_health_endpoint",
+  "backend/tests/test_health.py::test_health_endpoint",
+  "backend/tests/test_parser.py::test_pipeline_on_sample_image",
+  "backend/tests/test_parser.py::test_pipeline_on_sample_invoice",
+  "backend/tests/test_upload.py::test_upload_corrupted_pdf",
+  "backend/tests/test_upload.py::test_upload_empty_file",
+  "backend/tests/test_upload.py::test_upload_invalid_type",
+  "backend/tests/test_upload.py::test_upload_valid_pdf"
+]

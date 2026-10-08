@@ -1,0 +1,29 @@
+{
+  "documentId": "doc-abce6b43cbb9",
+  "metadata": {
+    "id": "doc-abce6b43cbb9",
+    "name": "Lifecycle_Invoice.pdf",
+    "format": "PDF",
+    "pages": 5,
+    "size": "1 KB",
+    "processedAt": "Oct 08, 2026 \u2022 04:07 AM",
+    "processingTime": "0.0 seconds",
+    "totalBlocks": 0,
+    "textBlocks": 0,
+    "tables": 0,
+    "figures": 0,
+    "equations": 0,
+    "images": 0,
+    "lists": 0,
+    "confidence": 90.0
+  },
+  "confidenceDistribution": {
+    "high": 100,
+    "medium": 0,
+    "low": 0,
+    "veryLow": 0
+  },
+  "flaggedPages": [],
+  "blocks": [],
+  "errors": []
+}

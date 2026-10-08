@@ -1,0 +1,1322 @@
+{
+  "documentId": "doc-74a8a1150133",
+  "metadata": {
+    "id": "doc-74a8a1150133",
+    "name": "Lifecycle_Invoice.pdf",
+    "format": "PDF",
+    "pages": 5,
+    "size": "6 KB",
+    "processedAt": "Oct 08, 2026 \u2022 04:12 AM",
+    "processingTime": "0.0 seconds",
+    "totalBlocks": 68,
+    "textBlocks": 62,
+    "tables": 0,
+    "figures": 0,
+    "equations": 2,
+    "images": 0,
+    "lists": 4,
+    "confidence": 97.5
+  },
+  "confidenceDistribution": {
+    "high": 97,
+    "medium": 3,
+    "low": 0,
+    "veryLow": 0
+  },
+  "flaggedPages": [],
+  "blocks": [
+    {
+      "id": "block-001",
+      "type": "TEXT",
+      "content": "ACME ENTERPRISES - CORPORATE TAX INVOICE",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 70.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 1,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-002",
+      "type": "TEXT",
+      "content": "Invoice Number: INV-2025-001 | Date: April 26, 2025 | Due Date: May 26, 2025 Billed To: Global Logistics Inc. \u007f 100 Mission St, San Francisco, CA Description",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 105.0,
+        "width": 512.0,
+        "height": 60.0
+      },
+      "readingOrder": 2,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-003",
+      "type": "TEXT",
+      "content": "Qty",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 190.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 3,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-004",
+      "type": "TEXT",
+      "content": "Unit Price",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 225.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 4,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-005",
+      "type": "TEXT",
+      "content": "Subtotal",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 260.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 5,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-006",
+      "type": "TEXT",
+      "content": "Dedicated Server Infrastructure v4 2",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 295.0,
+        "width": 512.0,
+        "height": 40.0
+      },
+      "readingOrder": 6,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-007",
+      "type": "TEXT",
+      "content": "$1,200.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 355.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 7,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-008",
+      "type": "TEXT",
+      "content": "$2,400.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 390.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 8,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-009",
+      "type": "TEXT",
+      "content": "Network Gateway Firewall Setup 1",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 425.0,
+        "width": 512.0,
+        "height": 40.0
+      },
+      "readingOrder": 9,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-010",
+      "type": "TEXT",
+      "content": "$850.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 485.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 10,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-011",
+      "type": "TEXT",
+      "content": "$850.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 520.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 11,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-012",
+      "type": "TEXT",
+      "content": "Managed Cloud Database Licenses 5",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 555.0,
+        "width": 512.0,
+        "height": 40.0
+      },
+      "readingOrder": 12,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-013",
+      "type": "TEXT",
+      "content": "$120.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 615.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 13,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-014",
+      "type": "TEXT",
+      "content": "$600.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 650.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 14,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-015",
+      "type": "TEXT",
+      "content": "24/7 Enterprise Support SMR",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 685.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 15,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-016",
+      "type": "TEXT",
+      "content": "1",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 720.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 16,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-017",
+      "type": "TEXT",
+      "content": "$450.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 755.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 17,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-018",
+      "type": "TEXT",
+      "content": "$450.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 790.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 18,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-019",
+      "type": "TEXT",
+      "content": "Subtotal Before Tax",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 825.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 19,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-020",
+      "type": "TEXT",
+      "content": "$4,300.00",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 860.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 20,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-021",
+      "type": "TEXT",
+      "content": "State Tax (8.25%)",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 895.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 21,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-022",
+      "type": "TEXT",
+      "content": "$354.75",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 930.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 22,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-023",
+      "type": "TEXT",
+      "content": "Invoice Total Balance Due",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 965.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 23,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-024",
+      "type": "TEXT",
+      "content": "$4,654.75",
+      "confidence": 0.98,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 1000.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 24,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-025",
+      "type": "TEXT",
+      "content": "Note: This invoice is generated electronically under isolated audit sandbox standards.",
+      "confidence": 0.96,
+      "pageNumber": 1,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 1035.0,
+        "width": 512.0,
+        "height": 35.0
+      },
+      "readingOrder": 25,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-026",
+      "type": "TEXT",
+      "content": "SECTION 2: COST CENTER & DEPARTMENTAL ALLOCATION",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 70.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 26,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-027",
+      "type": "TEXT",
+      "content": "The billing amounts have been apportioned based on consumption metrics: Department",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 105.0,
+        "width": 512.0,
+        "height": 40.0
+      },
+      "readingOrder": 27,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-028",
+      "type": "TEXT",
+      "content": "Cost Center",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 165.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 28,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-029",
+      "type": "TEXT",
+      "content": "Allocation %",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 200.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 29,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-030",
+      "type": "TEXT",
+      "content": "Allocated Sum",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 235.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 30,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-031",
+      "type": "TEXT",
+      "content": "Engineering Infrastructure",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 270.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 31,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-032",
+      "type": "TEXT",
+      "content": "CC-101",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 305.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 32,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-033",
+      "type": "TEXT",
+      "content": "55%",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 340.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 33,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-034",
+      "type": "TEXT",
+      "content": "$2,560.11",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 375.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 34,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-035",
+      "type": "TEXT",
+      "content": "Operations & Telemetry",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 410.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 35,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-036",
+      "type": "TEXT",
+      "content": "CC-104",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 445.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 36,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-037",
+      "type": "TEXT",
+      "content": "30%",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 480.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 37,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-038",
+      "type": "TEXT",
+      "content": "$1,396.43",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 515.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 38,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-039",
+      "type": "TEXT",
+      "content": "Administration & Legal",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 550.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 39,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-040",
+      "type": "TEXT",
+      "content": "CC-109",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 585.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 40,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-041",
+      "type": "TEXT",
+      "content": "15%",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 620.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 41,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-042",
+      "type": "TEXT",
+      "content": "$698.21",
+      "confidence": 0.98,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 655.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 42,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-043",
+      "type": "EQUATION",
+      "content": "Amortization Formula: A = P * (1 + r/n)^(n*t)",
+      "confidence": 0.88,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 60.0,
+        "y": 690.0,
+        "width": 492.0,
+        "height": 35.0
+      },
+      "readingOrder": 43,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-044",
+      "type": "EQUATION",
+      "content": "Net Present Value Formula: NPV = sum(CF_t / (1 + r)^t)",
+      "confidence": 0.88,
+      "pageNumber": 2,
+      "boundingBox": {
+        "x": 60.0,
+        "y": 735.0,
+        "width": 492.0,
+        "height": 35.0
+      },
+      "readingOrder": 44,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-045",
+      "type": "TEXT",
+      "content": "SECTION 3: COMPLIANCE, AUDIT & VENDOR AUTHORIZATIONS",
+      "confidence": 0.98,
+      "pageNumber": 3,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 70.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 45,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-046",
+      "type": "TEXT",
+      "content": "\u007f Vendor Registration Identifier: VR-99214-US \u007f ISO/IEC 27001 Certified Information Security Management \u007f SOC-2 Type II Independent Service Auditor Verification Confirmed",
+      "confidence": 0.98,
+      "pageNumber": 3,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 105.0,
+        "width": 512.0,
+        "height": 60.0
+      },
+      "readingOrder": 46,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-047",
+      "type": "TEXT",
+      "content": "\u007f Anti-Money Laundering (AML) Compliance Verification Passed Compliance Attestation Signature: [AUTHORIZED OFFICER ACME SEC]",
+      "confidence": 0.96,
+      "pageNumber": 3,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 190.0,
+        "width": 512.0,
+        "height": 35.0
+      },
+      "readingOrder": 47,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-048",
+      "type": "TEXT",
+      "content": "SECTION 4: PAYMENT RAILS & WIRE INSTRUCTIONS",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 70.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 48,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-049",
+      "type": "TEXT",
+      "content": "Field",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 105.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 49,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-050",
+      "type": "TEXT",
+      "content": "Value",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 140.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 50,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-051",
+      "type": "TEXT",
+      "content": "Beneficiary Name",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 175.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 51,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-052",
+      "type": "TEXT",
+      "content": "ACME Enterprises Global LLC",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 210.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 52,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-053",
+      "type": "TEXT",
+      "content": "Bank Name",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 245.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 53,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-054",
+      "type": "TEXT",
+      "content": "Silicon Commercial Bank NA",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 280.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 54,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-055",
+      "type": "TEXT",
+      "content": "Routing ABA Number",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 315.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 55,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-056",
+      "type": "TEXT",
+      "content": "021000089",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 350.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 56,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-057",
+      "type": "TEXT",
+      "content": "Account Number",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 385.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 57,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-058",
+      "type": "TEXT",
+      "content": "987654321045",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 420.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 58,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-059",
+      "type": "TEXT",
+      "content": "SWIFT / BIC Code",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 455.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 59,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-060",
+      "type": "TEXT",
+      "content": "SCBKUS33XXX",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 490.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 60,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-061",
+      "type": "TEXT",
+      "content": "Currency",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 525.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 61,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-062",
+      "type": "TEXT",
+      "content": "USD (United States Dollar)",
+      "confidence": 0.98,
+      "pageNumber": 4,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 560.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 62,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-063",
+      "type": "TEXT",
+      "content": "SECTION 5: GENERAL TERMS AND CONDITIONS",
+      "confidence": 0.98,
+      "pageNumber": 5,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 70.0,
+        "width": 512.0,
+        "height": 20.0
+      },
+      "readingOrder": 63,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-064",
+      "type": "LIST",
+      "content": "1. Payment Terms: Strictly Net 30 days from invoice issue date.",
+      "confidence": 0.96,
+      "pageNumber": 5,
+      "boundingBox": {
+        "x": 70.0,
+        "y": 105.0,
+        "width": 472.0,
+        "height": 28.0
+      },
+      "readingOrder": 64,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-065",
+      "type": "LIST",
+      "content": "2. Late Penalty: Invoices overdue past 30 days accrue interest at 1.5% per month.",
+      "confidence": 0.96,
+      "pageNumber": 5,
+      "boundingBox": {
+        "x": 70.0,
+        "y": 140.0,
+        "width": 472.0,
+        "height": 28.0
+      },
+      "readingOrder": 65,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-066",
+      "type": "LIST",
+      "content": "3. Dispute Window: Any invoice dispute must be filed in writing within 10 business days.",
+      "confidence": 0.96,
+      "pageNumber": 5,
+      "boundingBox": {
+        "x": 70.0,
+        "y": 175.0,
+        "width": 472.0,
+        "height": 28.0
+      },
+      "readingOrder": 66,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-067",
+      "type": "LIST",
+      "content": "4. Governing Jurisdiction: This agreement is governed by the laws of California, USA.",
+      "confidence": 0.96,
+      "pageNumber": 5,
+      "boundingBox": {
+        "x": 70.0,
+        "y": 210.0,
+        "width": 472.0,
+        "height": 28.0
+      },
+      "readingOrder": 67,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    },
+    {
+      "id": "block-068",
+      "type": "TEXT",
+      "content": "Authorized Signatory: CFO John A. Doe \u007f Certified via Digital Token #99824",
+      "confidence": 0.96,
+      "pageNumber": 5,
+      "boundingBox": {
+        "x": 50.0,
+        "y": 245.0,
+        "width": 512.0,
+        "height": 35.0
+      },
+      "readingOrder": 68,
+      "validationStatus": "valid",
+      "sourceDocumentId": "doc-74a8a1150133",
+      "requiresHumanReview": false,
+      "issue": null,
+      "tableDetails": null
+    }
+  ],
+  "errors": []
+}
